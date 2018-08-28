@@ -7,11 +7,116 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Slots
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Dezrez.Rezi.Client.Api - Auto-picks attendees and the next available appointment
+    slot given the parameters in the request.
+  x-api-slug: apiappointmentsuggest-post
+  description: Auto-picks attendees and the next available appointment slot given
+    the parameters in the request..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiappointmentsuggest-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Get a single DocumentPlaceholder which is the 'slot'
+    the particular document of type+source exists within.
+  x-api-slug: apiroleiddocumentfromplaceholder-get
+  description: Get a single documentplaceholder which is the 'slot' the particular
+    document of type+source exists within..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiroleiddocumentfromplaceholder-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set approval status of viewing slot on multi viewing
+    appointment
+  x-api-slug: apiviewingidrecordslotapprovalviewingslotid-put
+  description: Set approval status of viewing slot on multi viewing appointment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiviewingidrecordslotapprovalviewingslotid-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Auto-picks attendees and the next available appointment
+    slot given the parameters in the request.
+  x-api-slug: apiappointmentsuggest-post
+  description: Auto-picks attendees and the next available appointment slot given
+    the parameters in the request..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiappointmentsuggest-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Get a single DocumentPlaceholder which is the 'slot'
+    the particular document of type+source exists within.
+  x-api-slug: apiroleiddocumentfromplaceholder-get
+  description: Get a single documentplaceholder which is the 'slot' the particular
+    document of type+source exists within..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiroleiddocumentfromplaceholder-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set approval status of viewing slot on multi viewing
+    appointment
+  x-api-slug: apiviewingidrecordslotapprovalviewingslotid-put
+  description: Set approval status of viewing slot on multi viewing appointment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiviewingidrecordslotapprovalviewingslotid-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set approval status of viewing slot on multi viewing
+    appointment
+  x-api-slug: apiviewingidrecordslotapprovalviewingslotid-put
+  description: Set approval status of viewing slot on multi viewing appointment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiviewingidrecordslotapprovalviewingslotid-put-openapi.md
+- name: Dezrez.Rezi.Client.Api - Get a single DocumentPlaceholder which is the 'slot'
+    the particular document of type+source exists within.
+  x-api-slug: apiroleiddocumentfromplaceholder-get
+  description: Get a single documentplaceholder which is the 'slot' the particular
+    document of type+source exists within..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiroleiddocumentfromplaceholder-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Auto-picks attendees and the next available appointment
+    slot given the parameters in the request.
+  x-api-slug: apiappointmentsuggest-post
+  description: Auto-picks attendees and the next available appointment slot given
+    the parameters in the request..
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/slots/master/_listings/dezrez/apiappointmentsuggest-post-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/dezrez
